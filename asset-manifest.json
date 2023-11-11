@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Zintlr-react/static/css/main.4c55265f.css",
+    "main.js": "/Zintlr-react/static/js/main.a4fbb644.js",
+    "index.html": "/Zintlr-react/index.html",
+    "main.4c55265f.css.map": "/Zintlr-react/static/css/main.4c55265f.css.map",
+    "main.a4fbb644.js.map": "/Zintlr-react/static/js/main.a4fbb644.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c55265f.css",
+    "static/js/main.a4fbb644.js"
+  ]
+}
