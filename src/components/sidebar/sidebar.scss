@@ -1,0 +1,44 @@
+.sidebar {
+  flex: 1;
+  border-right: 0.5px solid rgb(230, 227, 227);
+  height: 990px;
+  width: 267px;
+  background-color: #f6fafc;
+
+}
+.top{
+  padding: 40px 40px;
+ 
+}
+.top span{
+  color: #5d5fef;
+  font-size: 20px;
+}
+.center ul {
+  list-style:none;
+
+}
+.center ul li {
+  font-size: 18px;
+  font-weight: 500;
+  margin-top: 30px;
+  
+  }
+   li:hover{
+    background-color: aquamarine;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 22px;
+    
+   }
+  .bottom{
+    display: flex;
+    margin-top: 50px;
+    flex-direction: column;
+    font-size: 15px;
+    padding: 5px;
+    
+  }
+  .Box{
+    border: 3px blue;
+  }
